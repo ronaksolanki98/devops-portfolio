@@ -402,8 +402,7 @@ const App: React.FC = () => {
             </a>
           </div>
           <div className="text-sm mono text-slate-500">
-            &copy; {new Date().getFullYear()} — I earn because someone hardcoded
-            credentials in production.
+            I earn because someone hardcoded credentials in production.
           </div>
         </div>
       </footer>
